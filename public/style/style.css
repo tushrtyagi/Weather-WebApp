@@ -15,3 +15,9 @@ td:first-of-type, td:first-of-type > div {
   height: 200px;
   width: 250px;
 }
+
+.name{
+  font-size: 30px;
+  font-weight:bold;
+  color:grey;
+}
