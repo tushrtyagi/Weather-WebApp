@@ -7,6 +7,14 @@ td, th {
   margin: 20px 0px;
 }
 
+
+.input-group-btn {
+
+  font-size: 0;
+  white-space: nowrap;
+
+}
+
 svg {
   height: 150px;
 }
